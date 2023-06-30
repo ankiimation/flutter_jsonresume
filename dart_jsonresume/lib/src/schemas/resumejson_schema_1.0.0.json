@@ -1,0 +1,209 @@
+{
+    "basics": {
+        "name": "Le Nguyen Khoa",
+        "label": "Mobile Developer",
+        "image": "",
+        "email": "lenguyenkhoa1898@gmail.com",
+        "phone": "84357860936",
+        "url": "github.com/ankiimation",
+        "summary": "_",
+        "location": {
+            "address": "Phu Nhuan",
+            "postalCode": "70000",
+            "city": "Ho Chi Minh",
+            "countryCode": "VN",
+            "region": "Vietnam"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "ankiimation",
+                "url": "https://github.com/ankiimation"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "VIETMAP",
+            "position": "Mobile Developer",
+            "url": "https://vietmap.vn",
+            "startDate": "2021-03-01",
+            "summary": "Served as a core member of the Mobile team, contributing to the development of mobile applications.",
+            "highlights": [
+                "VIETMAP Live: Top Map and Navigation app in Vietnam",
+                "Vietmap Tracking: Vehicles tracking app",
+                "Vietmap Agents: Ecommerce app for Vietmap's agents"
+            ]
+        },
+        {
+            "name": "TS24 Corp",
+            "position": "Flutter Mobile Developer",
+            "url": "https://web.ts24.com.vn/",
+            "startDate": "2020-06-01",
+            "endDate": "2021-03-2021",
+            "summary": "Developing and maintaining company's app using Flutter",
+            "highlights": [
+                "Salute: Medical app",
+                "Bus2School: School bus manager app",
+                "SafetySigning: E-Signature app"
+            ]
+        },
+        {
+            "name": "DataDesign VN",
+            "position": "Intern Developer",
+            "url": "https://datadesign.vn",
+            "startDate": "2019-09-01",
+            "endDate": "2019-12-01",
+            "summary": "Developing and maintaining company's app using Flutter, ASP.net Core, JavaFX,...",
+            "highlights": [
+                "Attendance app using Flutter and ASP.net Core",
+                "Data Crawler app using JavaFX and Selenium"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Flutter",
+            "level": "Senior",
+            "keywords": [
+                "Dart/Flutter",
+                "Clean Architecture",
+                "Flutter Architecture Patterns: DDD, BLoC, MVC",
+                "State Management (BLoC,Provider, InheritedWidget)",
+                "Method Channel",
+                "REST API Integration (http, Dio)",
+                "Responsive UI Design",
+                "Firebase Integration",
+                "Local Database Integration (Sqflite, NoSQL, Hive)",
+                "WebSocket Communication",
+                "Accessibility Support",
+                "Debugging and Profiling",
+                "Version Control: Git, SVN",
+                "Continuous Integration/Continuous Deployment (CI/CD)"
+            ]
+        }
+    ],
+    "highlight_projects": [
+        {
+            "name": "VIETMAP Live",
+            "summary": "Top Map and Navigation app in Vietnam",
+            "techstack": [
+                "Dart/Flutter",
+                "Kotlin",
+                "Swift",
+                "Map and Navigation SDK",
+                "REST API"
+            ],
+            "roles": [
+                "Core member of the Mobile team",
+                "Took the lead in initiating and maintaining CarPlay and Android Auto integration for seamless in-car navigation.",
+                "Created reuseable packages/plugins/modules for integration into multiple apps."
+            ],
+            "team": "15 with 5 mobile"
+        },
+        {
+            "name": "VIETMAP Agents",
+            "summary": "App for Vietmap's agents",
+            "techstack": [
+                "Dart/Flutter",
+                "Firebase",
+                "REST API"
+            ],
+            "roles": [
+                "Mobile app lead"
+            ],
+            "team": "3 mobile"
+        }
+    ],
+    "pet_projects": [
+        {
+            "name": "LOVEStorii",
+            "summary": "50k+ downloads. A simple app for couples to count love days, keep memories,...",
+            "features": [
+                "Love days counter",
+                "Memories keeping",
+                "App theme settings: Color, Wallpaper,...",
+                "Events/anniversary manager and notifications",
+                "Backup/Restore data",
+                "And more..."
+            ],
+            "techstack": [
+                "Flutter for mobile app",
+                "NodeJS + MongoDB for backend",
+                "Integrate Firebase: Cloud Messaging (FCM), Auth, Dynamic Link,..."
+            ]
+        },
+        {
+            "name": "SHOPii",
+            "summary": "Open-source ecommerce app",
+            "url": "https://github.com/ankiimation/flutter_SHOPii",
+            "features": [
+                "Product categories, products list",
+                "Cart",
+                "Profile",
+                "Orders",
+                "And more..."
+            ],
+            "techstack": [
+                "Flutter for mobile app",
+                ".NET Core for backend"
+            ]
+        },
+        {
+            "name": "Trackii",
+            "summary": "Speedometer, location tracking/replaying app",
+            "features": [
+                "Speedometer",
+                "Location recording",
+                "Trip manager",
+                "Trip replay",
+                "And more..."
+            ],
+            "techstack": [
+                "Flutter for mobile app",
+                "Location Service, flutter_map, nosql database"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Transport",
+            "url": "https://ut.edu.vn/",
+            "area": "Information Technology",
+            "studyType": "Bachelor of Engineering",
+            "startDate": "2016-09-01",
+            "endDate": "2020-09-01"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Android Development",
+            "date": "2018-11-1",
+            "issuer": "NhatNghe JSC",
+            "url": "https://nhatnghe.com"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Basic Communication"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Motorcycling",
+            "keywords": [
+                "Harley Davidson"
+            ]
+        },
+        {
+            "name": "Dancing",
+            "keywords": [
+                "Popping"
+            ]
+        },
+        {
+            "name": "Photography"
+        }
+    ]
+}
